@@ -1,0 +1,4 @@
+*.EXE
+*.OBJ
+*.swp
+.DS_Store
