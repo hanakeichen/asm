@@ -1,0 +1,4 @@
+检测15.1 
+精简为：
+    pushf
+    call dword ptr ds:[0]
